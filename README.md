@@ -1,4 +1,4 @@
-# Flutter Product Organizer App
+# Flutter Enderecamento App
 
 Descrição
 O Enderecamento App é uma aplicação móvel desenvolvida em Flutter que tem como objetivo facilitar a organização de produtos virtualmente por meio do mapeamento de códigos de barras. Além disso, o aplicativo oferece a funcionalidade de indicar o local físico onde o produto está armazenado, tornando a gestão de inventário mais eficiente e intuitiva.
